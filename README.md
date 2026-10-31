@@ -1,8 +1,6 @@
 **[Watch the Demonstration Video](https://drive.google.com/file/d/1yEmzEUHiksLkIK8n5qJuga0qSlNEsGAH/view?usp=sharing)**
 
-**[Watch the Demonstration Video](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
-
-# J & D Reserve - Android app (Lab Act 3)
+# J & D Reserve - Android app (Lab Act 5)
 
 Beach House booking app for **J & D Beach House, Patar, Bolinao**, built from the Figma prototype
 (screens G1-G4, S1-S4, L1-L2). Language: **Kotlin only**. No third-party libraries.
